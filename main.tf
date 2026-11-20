@@ -4,5 +4,5 @@ terraform {
 
 resource "local_file" "project6" {
   filename = "project6.txt"
-  content  = "Project 6 Version Control Infrastructure"
+  content  = "Project 6 Version Control Infrastructure - updated"
 }
